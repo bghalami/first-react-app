@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "react-router";
 
-const Homepage = () => {
+const HomePage = () => {
   <div className="jumbotron center">
     <h1 className="lead">Welcome to Media Library built with React, Redux, and Redux-saga</h1>
       <div>
@@ -12,4 +12,4 @@ const Homepage = () => {
   </div>
 };
 
-export default Homepage;
+export default HomePage;
